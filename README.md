@@ -22,22 +22,22 @@ This project is a front-end clone of Amazon's website created using HTML, CSS, a
    git clone https://github.com/your-username/amazon-clone.git
 
 
-Project Structure
+<h2>Project Structure</h2>
 
-├── index.html    # Main HTML file
-├── style.css     # Custom CSS for styling the page
-└── assets        # Folder for storing images and other static files
+index.html    # Main HTML file <br>
+style.css     # Custom CSS for styling the page <br>
+assets        # Folder for storing images and other static files <br>
 
 Navigation Bar: Includes logo, search bar, and cart icons.
 Hero Section: Displays a banner image.
 Shopping Categories: Product categories like Clothes, Health & Personal Care, and more.
 
-Future Enhancements
+<h2>Future Enhancements</h2>
 Add product details pages.
 Integrate backend for handling user data and product inventory.
 Implement user authentication and shopping cart functionality.
 
-License
+<h2>License</h2>
 This project is open-source and available under the MIT License.
 
 Feel free to modify the content according to any specific details you want to highlight or add!
